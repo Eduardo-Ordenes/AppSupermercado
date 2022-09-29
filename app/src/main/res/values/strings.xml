@@ -1,5 +1,11 @@
 <resources>
     <string name="app_name">AppSupermercado</string>
+    <string name="cart_title">Tu carrito de compra</string>
+    <string name="jamon">Jamon</string>
+    <string name="queso">Queso</string>
+    <string name="atun">Atun</string>
+    <string name="leche">Leche</string>
+    <string name="pagar">Ir a Pagar</string>
     <string name="buscador">¿Qué estas buscando?</string>
     <string name="imagenFrutas">Frutas</string>
     <string name="textoPromociones">Las mejores promociones para ti</string>
