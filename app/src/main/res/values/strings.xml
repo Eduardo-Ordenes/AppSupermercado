@@ -1,9 +1,15 @@
 <resources>
-    <string name="app_name">praticaClase2</string>
-    <string name="cart_title">Tu carrito de compra</string>
-    <string name="jamon">Jamon</string>
-    <string name="queso">Queso</string>
-    <string name="atun">Atun</string>
-    <string name="leche">Leche</string>
-    <string name="pagar">Ir a Pagar</string>
+    <string name="app_name">AppSupermercado</string>
+    <string name="buscador">¿Qué estas buscando?</string>
+    <string name="imagenFrutas">Frutas</string>
+    <string name="textoPromociones">Las mejores promociones para ti</string>
+    <string name="textoBebe">Especial bebé</string>
+    <string name="lacteos">Lacteos</string>
+    <string name="coffehouse">Breakfast</string>
+    <string name="cocinaymesa">Cocina y mesa</string>
+    <string name="productosFrecuentes">Tus productos frecuentes</string>
+    <string name="precioLeche">$1780</string>
+    <string name="precioPlatano">$1200K</string>
+    <string name="precioArrox">$980</string>
+    <string name="vermas">Ver más</string>
 </resources>
