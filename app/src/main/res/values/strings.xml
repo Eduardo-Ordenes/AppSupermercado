@@ -18,4 +18,26 @@
     <string name="precioPlatano">$1200K</string>
     <string name="precioArrox">$980</string>
     <string name="vermas">Ver más</string>
+
+
+
+
+
+
+
+    <string name="textoUsuario">Username</string>
+    <string name="textoContrasenia">Ingrese Contraseña</string>
+    <string name="buttonIngresarLogin">Ingresar</string>
+    <string name="textoCereales">Cereales</string>
+    <string name="precioZucarita">$2000</string>
+    <string name="precioCornFlakes">$2300</string>
+    <string name="precioFrootLoops">$1900</string>
+    <string name="precioChocapic">$1700</string>
+    <string name="precioMilo">$2100</string>
+    <string name="precioNesquit">$1990</string>
+    <string name="precioCerealFitnes">$1690</string>
+    <string name="precioCheerios">$1600</string>
+    <string name="precioCerealOreo">$2300</string>
+
+
 </resources>
