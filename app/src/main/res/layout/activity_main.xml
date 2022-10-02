@@ -112,6 +112,7 @@
         android:layout_height="74dp"
         android:layout_marginTop="16dp"
         android:background="#F6F5F5"
+        android:contentDescription="@string/breakfast"
         android:scaleType="centerInside"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.611"
@@ -129,7 +130,7 @@
         android:contentDescription="@string/lacteos"
         android:scaleType="centerInside"
         app:layout_constraintEnd_toEndOf="@+id/textView7"
-        app:layout_constraintHorizontal_bias="0.105"
+        app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toEndOf="@+id/imageButton6"
         app:layout_constraintTop_toBottomOf="@+id/textView"
         app:srcCompat="@drawable/img_6" />
@@ -139,13 +140,12 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
 
+        android:layout_marginStart="28dp"
         android:layout_marginBottom="40dp"
         android:text="@string/textoBebe"
         android:textColor="#554F4F"
         android:textSize="12dp"
         app:layout_constraintBottom_toTopOf="@+id/textView9"
-        app:layout_constraintEnd_toStartOf="@+id/textView4"
-        app:layout_constraintHorizontal_bias="0.491"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView"
         app:layout_constraintVertical_bias="0.98" />
@@ -154,13 +154,14 @@
         android:id="@+id/textView4"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_marginStart="20dp"
         android:layout_marginTop="8dp"
         android:text="@string/cocinaymesa"
         android:textColor="#554F4F"
         android:textSize="12dp"
-        app:layout_constraintEnd_toEndOf="@+id/textView9"
-        app:layout_constraintHorizontal_bias="0.637"
-        app:layout_constraintStart_toEndOf="@+id/textView9"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.009"
+        app:layout_constraintStart_toEndOf="@+id/textView3"
         app:layout_constraintTop_toBottomOf="@+id/imageButton6" />
 
     <TextView
@@ -173,7 +174,7 @@
         android:textColor="#554F4F"
         android:textSize="12dp"
         app:layout_constraintEnd_toStartOf="@+id/textView13"
-        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintHorizontal_bias="0.015"
         app:layout_constraintStart_toEndOf="@+id/textView4"
         app:layout_constraintTop_toBottomOf="@+id/imageButton8" />
 
@@ -214,7 +215,7 @@
         android:foregroundTint="#2ADC31"
         android:shadowColor="#4CAF50"
         android:text="@string/vermas"
-        android:textColor="#268A2A"
+        android:textColor="#2E7D32"
         app:drawableTint="#4CAF50"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.912"

@@ -20,11 +20,6 @@
     <string name="vermas">Ver más</string>
 
 
-
-
-
-
-
     <string name="textoUsuario">Username</string>
     <string name="textoContrasenia">Ingrese Contraseña</string>
     <string name="buttonIngresarLogin">Ingresar</string>
@@ -38,6 +33,55 @@
     <string name="precioCerealFitnes">$1690</string>
     <string name="precioCheerios">$1600</string>
     <string name="precioCerealOreo">$2300</string>
+    <string name="breakfast">Desayuno</string>
+    <string name="frutas">Frutas</string>
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <string name="precioManzana">$800K</string>
+    <string name="precioNaranja">$890K</string>
+    <string name="precioPomelo">$1100K</string>
+    <string name="precioFrambrueza">$1800K</string>
+    <string name="precioCereza">$2100K</string>
+    <string name="precioCiruela">$1390K</string>
+    <string name="precioFrutilla">$1200K</string>
+    <string name="precioDurazno">$1400K</string>
+    <string name="registro">Registrarse</string>
+    <string name="registroNombre">Nombre</string>
+    <string name="registroApellido">Apellido</string>
+    <string name="registroCorreo">Correo electronico</string>
+    <string name="registroNumero">Número de celular</string>
+    <string name="registroContrasenia">Contraseña</string>
+    <string name="registroConfirmarContrasenia">Confirmar contraseña</string>
+    <string name="registroCrearCuenta">Crear cuenta</string>
+    <string name="registroBtnIngresar">Ingresar</string>
+    <string name="todo">TODO</string>
 
 </resources>
