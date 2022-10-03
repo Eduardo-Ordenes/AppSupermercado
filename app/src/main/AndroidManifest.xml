@@ -23,7 +23,28 @@
             android:name=".activity_productos1_view"
             android:exported="false" />
         <activity
+            android:name=".activity_users_view"
+            android:exported="false" />
+        <activity
+            android:name=".activity_start_view"
+            android:exported="false" />
+        <activity
+            android:name=".activity_map_view"
+            android:exported="false" />
+        <activity
+            android:name=".activity_shipping_address_view"
+            android:exported="false" />
+        <activity
+            android:name=".activity_shipping_opinions_view"
+            android:exported="false" />
+        <activity
+            android:name=".activity_shipping_rating_view"
+            android:exported="false" />
+        <activity
             android:name=".activity_login_view"
+            android:exported="false" />
+        <activity
+            android:name=".activity_cart_view"
             android:exported="false" />
         <activity
             android:name=".MainActivity"
