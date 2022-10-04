@@ -22,9 +22,6 @@
     <string name="shipping_rate2">¿Te gustaria calificarlo?</string>
     <string name="shipping_address_selection">Como quieres tu compra:</string>
     <string name="medio_pago">VISA **** ****  *675</string>
-
-
-
     <string name="textoUsuario">Username</string>
     <string name="textoContrasenia">Ingrese Contraseña</string>
     <string name="buttonIngresarLogin">Ingresar</string>
@@ -40,36 +37,6 @@
     <string name="precioCerealOreo">$2300</string>
     <string name="breakfast">Desayuno</string>
     <string name="frutas">Frutas</string>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     <string name="precioManzana">$800K</string>
     <string name="precioNaranja">$890K</string>
     <string name="precioPomelo">$1100K</string>
