@@ -14,6 +14,9 @@
         android:theme="@style/Theme.PraticaClase2"
         tools:targetApi="31">
         <activity
+            android:name=".activity_intent_eduardosalinas"
+            android:exported="false" />
+        <activity
             android:name=".activity_registro_view"
             android:exported="false" />
         <activity
@@ -24,7 +27,8 @@
             android:exported="false" />
         <activity
             android:name=".activity_users_view"
-            android:exported="false" />
+            android:exported="false"
+            android:theme="@style/Theme.AppCompat.NoActionBar" />
         <activity
             android:name=".activity_start_view"
             android:exported="false" />
@@ -45,10 +49,12 @@
             android:exported="false" />
         <activity
             android:name=".activity_cart_view"
-            android:exported="false" />
+            android:exported="false"
+            android:theme="@style/Theme.AppCompat.NoActionBar" />
         <activity
             android:name=".MainActivity"
-            android:exported="true">
+            android:exported="true"
+            android:theme="@style/Theme.AppCompat.NoActionBar">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

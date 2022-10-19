@@ -56,4 +56,11 @@
     <string name="registroBtnIngresar">Ingresar</string>
     <string name="todo">TODO</string>
 
+
+    <string name="moverseALogin">Login</string>
+    <string name="abrirWhatsapp">Whatsapp</string>
+    <string name="busquedaGoogle">Google</string>
+    <string name="contantosDirectorio">Contactos</string>
+    <string name="moverIntentNuevo">Actividad</string>
+
 </resources>
